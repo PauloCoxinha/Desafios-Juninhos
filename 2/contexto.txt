@@ -1,0 +1,12 @@
+Desenvolva uma solução capaz de identificar o padrão matemático de uma sequência e gerar seus próximos valores.
+
+Considere:
+
+2, 6, 12, 20, 30, 42, ...
+Critérios
+Identifique a lógica utilizada para gerar a sequência.
+Desenvolva um algoritmo capaz de gerar os próximos valores.
+O usuário deve informar quantos valores deseja gerar.
+O programa deve apresentar a sequência gerada.
+Explique qual foi a lógica utilizada para encontrar o padrão.
+

@@ -1,0 +1,11 @@
+Linguagem: PYTHON
+Dificuldade: INICIANTE
+ID: 51d923cd-6074-4b70-bce8-e28986269dd5
+
+Desenvolva um programa capaz de analisar as notas de uma turma. O programa deve receber várias notas informadas pelo usuário e apresentar informações sobre o desempenho dos alunos. O objetivo é trabalhar com listas, estruturas de repetição, condicionais e operações matemáticas.
+Critérios
+O programa deve permitir que o usuário informe várias notas.
+Calcule a média das notas informadas.
+Identifique a maior e a menor nota.
+Informe quantos alunos foram aprovados e quantos foram reprovados, considerando média mínima de 7.0.
+Organize a solução utilizando funções, evitando concentrar toda a lógica dentro do programa principal.
