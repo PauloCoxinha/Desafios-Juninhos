@@ -1,0 +1,12 @@
+Desenvolva um programa capaz de calcular a velocidade média de um objeto utilizando conceitos básicos de física.
+
+Considere a fórmula:
+
+v = d / t
+Critérios
+Solicite a distância percorrida em metros.
+Solicite o tempo em segundos.
+Calcule a velocidade média.
+Exiba o resultado em m/s.
+Converta o resultado para km/h.
+Valide para que o tempo seja maior que zero.
