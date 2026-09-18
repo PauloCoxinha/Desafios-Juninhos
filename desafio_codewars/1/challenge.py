@@ -1,24 +1,34 @@
 
 number = int(input("digite um numero: "))
 
-decimal = []
 
-resultado = "".join(decimal)
-
-dois = 2
-def conta(number, decimal):
+def conta():
+    decimal = []
+    global number
     while number > 1:
-        operacao = number / 2
+        resto = number % 2
+        decimal.append(resto)
         number = number // 2
-        sequencial = operacao
-        if sequencial != number:
-            decimal.append(1)
-            
-        elif sequencial == number:
-            decimal.append(0)
+    decimal.append(number)
 
-print(resultado)
+    resultado = "".join(str(x) for x in decimal[::-1])
+    return resultado
 
-def evil(number):
-    
-    return "It's Evil!"
+decimais = conta()
+
+print(decimais)
+
+
+def evil(a):
+    um = a.count("1")
+    if um % 2 == 0:
+
+        return "It's Evil!"
+
+    else:
+        return "It's Odious!"
+
+verificando = evil(decimais)
+
+print(verificando)
+
