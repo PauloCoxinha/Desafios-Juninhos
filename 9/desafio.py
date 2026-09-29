@@ -12,7 +12,7 @@ for i in range(quantide_compromisso):
 
     titulo = input("Digite o titulo do seu compromisso: ")
     data_do_compromisso = input("Digite o a data no formato ano/mes/dia: ")
-    hora_do_compromisso = input("Agora digite o horario do seu compromisso no formado HH:MM:SS")
+    hora_do_compromisso = input("Agora digite o horario do seu compromisso no formado HH:MM:SS : ")
 
     data = dt.strptime(data_do_compromisso, "%Y/%m/%d")
     horario = dt.strptime(hora_do_compromisso, "%H:%M:%S")

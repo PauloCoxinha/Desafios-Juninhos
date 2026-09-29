@@ -1,0 +1,14 @@
+Linguagem: QUALQUER
+Dificuldade: INTERMEDIARIO
+ID: f9931653-2073-4b7e-b035-eded735169e8
+
+Uma sequência de DNA pode ser representada utilizando as letras A, T, C e G. Desenvolva um programa capaz de analisar uma sequência de DNA informada pelo usuário.
+
+O objetivo é combinar conceitos básicos de Biologia e Computação
+Critérios
+Receba uma sequência de DNA.
+Verifique se a sequência contém apenas A, T, C e G.
+Conte quantas vezes cada base aparece.
+Calcule a porcentagem de cada base na sequência.
+Identifique qual base aparece com maior frequência.
+Desconsidere diferenças entre letras maiúsculas e minúsculas.

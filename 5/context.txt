@@ -1,0 +1,13 @@
+Linguagem: PYTHON
+Dificuldade: INICIANTE
+ID: c1ab3e78-9f79-4672-86e0-3f496c4eef65
+
+Desenvolva um programa que simule um sistema simples de autenticação. O objetivo é trabalhar com strings, condicionais, funções e validação de dados
+Critérios
+Cadastre um usuário e uma senha.
+Solicite posteriormente as credenciais para realizar o login.
+Verifique se usuário e senha estão corretos.
+Permita no máximo três tentativas de login.
+Informe quando o acesso for autorizado.
+Bloqueie o acesso após três tentativas incorretas.
+Organize a solução utilizando funções.

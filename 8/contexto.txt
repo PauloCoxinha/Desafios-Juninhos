@@ -1,0 +1,16 @@
+🧩 Desafio do dia: Gerenciador de Filmes
+Linguagem: DART
+Dificuldade: INTERMEDIARIO
+ID: 2c9a3171-3ae8-41ff-a008-b9379acf87cb
+
+Desenvolva um programa capaz de gerenciar uma coleção de filmes assistidos pelo usuário. O sistema deverá permitir cadastrar filmes, atribuir avaliações e consultar informações sobre a coleção.
+Critérios
+Crie uma classe Filme contendo título, gênero, ano de lançamento e nota.
+Permita cadastrar vários filmes.
+A nota de cada filme deve estar entre 0 e 10.
+Permita pesquisar um filme pelo título, desconsiderando diferenças entre letras maiúsculas e minúsculas.
+Identifique o filme com a maior avaliação.
+Calcule a média das avaliações de todos os filmes.
+Permita listar os filmes ordenados da maior para a menor nota.
+Permita filtrar os filmes por gênero.
+Organize a solução utilizando classes e métodos, evitando concentrar toda a lógica dentro do main().

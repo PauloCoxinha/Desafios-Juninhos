@@ -1,0 +1,13 @@
+Linguagem: QUALQUER LINGUAGEM
+Dificuldade: INICIANTE
+ID: ed2f6fdb-f925-4543-9e33-d9d35c88f9e0
+
+Desenvolva um programa capaz de analisar uma série de temperaturas registradas durante vários dias. O objetivo é trabalhar com listas, cálculos, condicionais e análise de dados.
+Critérios
+O programa deve receber as temperaturas registradas durante vários dias.
+Calcule a temperatura média do período.
+Identifique a maior temperatura registrada.
+Identifique a menor temperatura registrada.
+Informe quantos dias ficaram acima da média.
+Informe em qual dia ocorreu a maior temperatura.
+Organize a solução utilizando funções ou métodos.

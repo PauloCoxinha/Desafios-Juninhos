@@ -1,6 +1,4 @@
 
-
-
 def cadastro():
     print("Olá, por favor cadastre o seu usuário e sua senha")
     usuario = input("Digite o seu usuário: ")
@@ -11,7 +9,7 @@ cadastrar = cadastro()
 
 
 def login(a, b):
-    tentativas = 0
+    tentativas = 1
     tentativa_login_user = ''
     tentativa_login_password = ''
     
@@ -32,7 +30,7 @@ def login(a, b):
 
     print("Sua conta foi bloqueada pelo excesso de tentativas")
 
-login(cadastrar[0], cadastrar[1])
+login()
 
 
 

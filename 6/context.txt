@@ -1,0 +1,16 @@
+Linguagem: QUALQUER
+Dificuldade: INTERMEDIARIO
+ID: c823b2d1-ed35-4877-a37f-a65c7d2edc22
+
+Uma residência possui diversos equipamentos elétricos.Desenvolva uma solução capaz de calcular o consumo de energia desses equipamentos durante determinado período.
+
+Considere:
+consumo = potência × tempo
+Critérios
+O programa deve permitir informar diferentes equipamentos.
+Para cada equipamento, informe sua potência em watts.
+Informe quantas horas por dia o equipamento permanece ligado.
+Calcule o consumo diário de cada equipamento em kWh.
+Calcule o consumo total da residência.
+Identifique qual equipamento possui o maior consumo.
+Explique as conversões utilizadas no cálculo.

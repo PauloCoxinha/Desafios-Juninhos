@@ -1,0 +1,14 @@
+Linguagem: QUALQUER LINGUAGEM
+Dificuldade: INTERMEDIARIO
+ID: 97da7575-a93b-4f7c-948a-84fd018923a3
+
+Desenvolva uma agenda simples para cadastrar e consultar compromissos.
+Critérios
+Permita cadastrar vários compromissos.
+Cada compromisso deve possuir título, data e horário.
+Não permita o cadastro de campos vazios.
+Permita listar todos os compromissos.
+Organize os compromissos por data e horário.
+Permita buscar compromissos por uma data específica.
+Permita remover um compromisso.
+Não permita dois compromissos no mesmo dia e horário.

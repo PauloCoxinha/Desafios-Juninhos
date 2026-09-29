@@ -1,0 +1,18 @@
+Linguagem: NÃO SE APLICA
+Dificuldade: INICIANTE
+ID: 6349fd67-35f6-4cfe-8433-814b0174d0ce
+
+Responda às perguntas abaixo com suas próprias palavras. Você pode utilizar exemplos simples para complementar as respostas.
+Critérios
+O que é uma API e para que ela serve? 
+Resposta: Uma API serve pra requisitar os serviços de algum software ou serviço de outro lugar conectando com o servidor. 
+
+O que são cliente e servidor em uma comunicação por API? Um cliente é aquele que requisita algo que no caso é a gente e o servidor aonde o site ou a API fica hospedada.
+
+Qual é a diferença entre uma requisição e uma resposta?
+R: Uma requisição faz voce perguntar pro servidor se voce pode acessar X informação e a resposta é quando ele devolve a requisição que vc fez
+
+Para que servem os métodos HTTP GET, POST, PUT e DELETE?
+O que são códigos de status HTTP? Explique o significado de 200, 404 e 500.
+
+Dicas de pesquisa: procure por conceito de API, cliente e servidor, requisição HTTP, métodos HTTP e códigos de status HTTP
