@@ -1,0 +1,24 @@
+Linguagem: NÃO SE APLICA
+Dificuldade: INICIANTE
+ID: f0ea2088-3805-4ac8-ac4d-4e8137402103
+
+Responda às perguntas abaixo com suas próprias palavras e, quando possível, apresente exemplos.
+Critérios
+Questões
+
+O que é segurança da informação e por que ela é importante?
+R: Segurança de informação é basicamente uma área que se baseia em proteger dados sensiveis, assim se conectando diretamente com a segurança de web e a carreira de cyberSegurança
+
+Qual é a diferença entre vírus, malware e ransomware?
+R: Vírus é basicamente um código malicioso, malware é um software malicioso e é quando invade o sistema e deixa impossibilitado do usuário entrar no sistema, assim cobrando uma taxa normalmente em bitcoin pra receber 
+
+O que é phishing e como identificar uma tentativa desse golpe?
+R: Phishing é basicamente emails maliciosos com links suspeitos, normalmente isso está no caso de você digitar um site famoso e errar uma letra e cair nesses sites maliciosos, além de clonar um site parecido com o "real", voce consegue acessar o original e comparar aas duas versões só pelo link sem entrar.
+
+Por que não devemos utilizar a mesma senha em diferentes serviços?
+R: Porque quando somos hackeados a pessoa pode acessar a maioria dos sistemas ou softwares com essa senha
+
+O que é autenticação de dois fatores e como ela aumenta a segurança?
+R: A autentificação de dois fatores faz com que voce necessite de uma chave de segurança para acessar que não seja a senha que só o usuario original tem.
+
+Dicas de pesquisa: segurança da informação, malware, ransomware, phishing e autenticação de dois fatores.
